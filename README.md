@@ -1,6 +1,6 @@
 # Streaming Service Analysis
 
-Data Science Capstone project analyzing streaming services and their content.
+Data Science Capstone project analyzing streaming services and their content. Full project is hosted on zlee1.github.io/capstone.html
 
 Data taken from Kaggle.com and found at the following links:
 
